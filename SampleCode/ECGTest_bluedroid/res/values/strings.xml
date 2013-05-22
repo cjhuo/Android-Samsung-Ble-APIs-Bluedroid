@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">ECG Monitor Test</string>
+    <string name="select_device">Select a device</string>
+    <string name="scanning">Scanning </string>
+    <string name="no_ble_devices">No LE devices found.</string>
+    <string name="device">Device</string>
+    <string name="no_device">&lt;Select a device&gt;</string>
+    <string name="status">Status</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Not connected</string>
+    <string name="SerialNumberString">Serial Number :: </string>
+    <string name="ManfName">Manufacturer Name :: </string>
+    <string name="CertDataList">Cert Data List :: </string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">discoverCharacteristics</string>
+    <string name="loading">"\tLoading..."</string>
+    <string name="paired">paired</string>
+    <string name="scan">Scan</string>
+    <string name="cancel">Cancel</string>
+    <string name="unpair">unpair</string>
+    <string name="pair">pair</string>
+    <string name="Readbsl">Stop Recording</string>
+    <string name="writeHRMnoti">Start Recording</string>
+    <string name="discoverService">discover Remote LE Services</string>
+    <string name="notification">registerNotification</string>
+    <string name="notification1">unregisterNotification</string>
+    <string name="writeClientConfig">writeClientConfigDesc</string>
+    <string name="writehrcp">writeControlPoint</string>
+    <string name="readChar">readChar</string>
+    <string name="Read0x2A29">Manufacturer Name</string>
+    <string name="Read0x2A25">Serial Number</string>
+    <string name="Read0x2A2A">Cert Data</string>
+    <string name="WriteHRM">Write HRM</string>
+    <string name="readDisValues">readDisValues</string>
+    <string name="readHrsValues">readHrsValues</string>
+    <string name="SystemId">SystemId</string>
+    <string name="ModelNumber">ModelNumber</string>
+    <string name="SerialNumber">SerialNumber :: </string>
+    <string name="FirmwareRevision">FirmwareRevision</string>
+    <string name="HardwareRevision">HardwareRevision</string>
+    <string name="SoftwareRevision">SoftwareRevision</string>
+    <string name="ManufactureName">ManufactureName :: </string>
+    <string name="RegCertDataList">RegCertDataList</string>
+    <string name="ManufactureId">    ManufactureId</string>
+    <string name="OrgId">    OrganizationId</string>
+    <string name="HeartRateMeasurementValue">HeartRateMeasurementValue</string>
+    <string name="HeartRateValue">HeartRateValue :: </string>
+    <string name="resetEE">resetEE</string>
+    <string name="EnergyExpendedValue">EnergyExpendedValue :: </string>
+    <string name="RR_Interval">RR_Interval</string>
+    <string name="RR_IntervalValue">RR_IntervalValue :: </string>
+    <string name="BodySensorLocationValue">BodySensorLocationValue</string>
+    <string name="BodySensorLocation">Body Sensor Location :: </string>
+    <string name="pair_or_unpair">Pair/Unpair</string>
+    <string name="connect_or_disconnect">Connect/Disconnect</string>
+    <string name="EnergyExpended">EnergyExpended</string>
+    <string name="removeBond">Remove Bond</string>
+    <string name="NotificationDisable">disNoti</string>
+    <string name="popup_title">QUIT HRP Collector?</string>
+    <string name="popup_message">Device Quit , Do you want to quit this Application?</string>
+    <string name="popup_yes">YES</string>
+    <string name="popup_no">NO</string>
+</resources>
