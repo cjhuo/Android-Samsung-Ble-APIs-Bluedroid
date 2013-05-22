@@ -7,5 +7,5 @@ Tryout on new BLE API that Samsung provided for their mobile devices running And
 Try out result/problems
 =======================
 (05/20/13) Auto-notify not working even if the client characteristic descriptor '2902' is set to 0x0100 as mentioned in SDK manual
-(05/20/13) Unlike 1.0, it does not need to create bond before issuing connect() methos to connect LE device. working
+(05/20/13) Unlike 1.0, it does not need to create bond before issuing connect() methos to connect LE device. working.  
 (05/20/13) SampleCode modified from the samples blehrpcollector provided on Samsung's SDK API website.
